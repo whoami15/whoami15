@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+My name is Daryl Legion, and I'am a Full Stack Developer from Oriental Mindoro, Philippines.
+
+I mostly work with Laravel, VueJs and AngularJS.
+I love sharing my programming knowledge through blog posts and open sourcing my projects.
+
+buy me a [~~coffee~~ tea](https://ko-fi.com/whoami1509) or a [coffee](https://www.buymeacoffee.com/whoami15).
+
 <!--
 **whoami15/whoami15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
