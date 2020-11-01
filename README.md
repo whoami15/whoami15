@@ -7,7 +7,7 @@ I love sharing my programming knowledge through blog posts and open sourcing my 
 
 <a href="https://github.com/whoami15"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=whoami15&show_icons=true" align="right" height="150" /></a>
 
-buy me a [~~coffee~~ tea](https://ko-fi.com/whoami1509) or a [coffee](https://www.buymeacoffee.com/whoami15).
+buy me a [coffee](https://www.buymeacoffee.com/whoami15).
 
 - 🌱 I’m currently learning and working with **VueJS & ReactJS**
 - 👯 I’m looking to collaborate on making Open Source Projects
