@@ -5,7 +5,7 @@ I'm Daryl Legion, and I'am a Full Stack Web Developer from Oriental Mindoro, Phi
 I mostly work with Laravel, VueJs and AngularJS.
 I love sharing my programming knowledge through blog posts and open sourcing my projects.
 
-<a href="https://github.com/whoami15"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=whoami15&show_icons=true" align="right" height="150" /></a>
+<a href="https://github.com/whoami15"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=whoami15&count_private=true&show_icons=true" align="right" height="150" /></a>
 
 buy me a [coffee](https://www.buymeacoffee.com/whoami15).
 
