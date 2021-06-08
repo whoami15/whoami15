@@ -5,6 +5,8 @@ I'm Daryl Legion, and I'am a Full Stack Web Developer from Oriental Mindoro, Phi
 I mostly work with Laravel, VueJs and AngularJS.
 I love sharing my programming knowledge through blog posts and open sourcing my projects.
 
+![](https://img.shields.io/twitter/follow/Annevigoss?style=flat-square&logo=twitter)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhoami15&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
