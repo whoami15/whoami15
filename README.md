@@ -12,8 +12,6 @@
 - 💬 Ping me about **Laravel Stuff** 😄
 - 📫 Reach me: [Email](daryl1legion@gmail.com) / [twitter.com/annevigoss](https://twitter.com/annevigoss)
 
-Buy me a [coffee](https://www.buymeacoffee.com/whoami15).
-
 ![image](https://github.com/whoami15/whoami15/blob/master/dino.gif)
 
 <!--
