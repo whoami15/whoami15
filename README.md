@@ -6,7 +6,7 @@ My name is Daryl. I'm a Laravel and Vue.js developer from the Philippines. VILT 
 - ⚙️ I use daily: `.php`, `.js`, `.vue`, `.html`, `.css`
 - 👯 I’m looking to collaborate on making Open Source Projects
 - 💬 Ping me about **Laravel Stuff** 😄
-- 📫 Reach me: [Email](mailto:hello@daryllegion.com?subject=GitHub) / [@Annevigoss](https://twitter.com/Annevigoss)
+- 📫 Reach me: [Email](mailto:https://hey.new/legion) / [@Annevigoss](https://twitter.com/Annevigoss)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/Annevigoss?label=%40Annevigoss&style=flat-square&logo=twitter) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwhoami15&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com) ![](https://komarev.com/ghpvc/?username=whoami15&color=brightgreen&style=flat-square)
 
